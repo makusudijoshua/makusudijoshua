@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**makusudijoshua/makusudijoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am [Joshua](https://github.com/makusudijoshua), a Full-Stack Software Engineer building scalable web platforms and exploring the next generation of AI-powered intelligent software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I am currently expanding my expertise in Artificial Intelligence and machine learning, while continuing to build production-ready full-stack applications.
+
+I enjoy designing systems that combine clean architecture, data-driven insights, and modern user experiences.
+
+---
+
+### Current Projects
+
+- **AshaSmile** — Dental Clinic Management System  
+- **Makcood** — Personal Portfolio Platform  
+- **VoltAI** — Real-Time Energy Monitoring Dashboard  
+
+---
+
+### Fun Facts
+
+- Huge Formula 1 fan 🏎️  
+- I enjoy watching anime  
+- One of my hobbies is playing bass guitar
