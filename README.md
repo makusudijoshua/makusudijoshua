@@ -22,6 +22,6 @@ I enjoy designing systems that combine clean architecture, data-driven insights,
 
 ### Fun Facts
 
-- Huge Formula 1 fan 🏎️  
+- Huge Formula 1 fan  
 - I enjoy watching anime  
 - One of my hobbies is playing bass guitar
