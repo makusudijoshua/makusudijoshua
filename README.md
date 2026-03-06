@@ -6,9 +6,7 @@ I am [Joshua](https://github.com/makusudijoshua), a Full-Stack Software Engineer
 
 ### About Me
 
-I am currently expanding my expertise in Artificial Intelligence and machine learning, while continuing to build production-ready full-stack applications.
-
-I enjoy designing systems that combine clean architecture, data-driven insights, and modern user experiences.
+I am currently expanding my expertise in Artificial Intelligence and machine learning, while continuing to build production-ready full-stack applications. I enjoy designing systems that combine clean architecture, data-driven insights, and modern user experiences.
 
 ---
 
