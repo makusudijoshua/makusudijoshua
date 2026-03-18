@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I am [Joshua](https://github.com/makusudijoshua), a Full-Stack Software Engineer building scalable web platforms and exploring the next generation of AI-powered intelligent software.
+I am [Joshua](https://github.com/makusudijoshua), a Full-Stack developer building scalable web platforms and exploring the next generation of AI-powered intelligent software.
 
 ---
 
