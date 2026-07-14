@@ -14,7 +14,7 @@ I am currently expanding my expertise in Artificial Intelligence and machine lea
 
 - **AshaSmile** — Dental Clinic Management System  
 - **Makcood** — Personal Portfolio Platform  
-- **VoltAI** — Real-Time Energy Monitoring Dashboard  
+- **Planora** — Mobile-first savings advisor  
 
 ---
 
