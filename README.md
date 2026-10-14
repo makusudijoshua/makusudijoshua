@@ -1,25 +1,10 @@
-## Hello there 👋
+#### HELLO THERE 👋
 
-I am [Joshua](https://github.com/makusudijoshua), a Full-Stack developer building scalable web platforms and exploring the next generation of AI-powered intelligent software.
+> I'm Joshua, a software engineer building scalable web and mobile platforms, with a growing focus on AI-powered software.
+> I care about how software is built: clean, well-structured code that follows good practices down to the smallest detail. I see every project as a system, where getting each part right is what makes the whole reliable.
 
----
+#### OUTSIDE OF CODE
 
-### About Me
-
-I am currently expanding my expertise in Artificial Intelligence and machine learning, while continuing to build production-ready full-stack applications. I enjoy designing systems that combine clean architecture, data-driven insights, and modern user experiences.
-
----
-
-### Current Projects
-
-- **AshaSmile** — Dental Clinic Management System  
-- **Makcood** — Personal Portfolio Platform  
-- **Planora** — Mobile-first savings advisor  
-
----
-
-### Fun Facts
-
-- Huge Formula 1 fan  
-- I enjoy watching anime  
-- One of my hobbies is playing bass guitar
+> - [x] Huge Formula 1 fan
+> - [x] Anime enthusiast
+> - [x] Bass guitar player
